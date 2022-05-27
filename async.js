@@ -1,3 +1,4 @@
+//async allows us to slowdownthe some of the work, and this can be done in last. 
 const fs = require("fs");
 // let data = fs.readFileSync("f1.txt");
 // console.log("" + data);
